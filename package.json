@@ -19,7 +19,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Latfiansya/Tugas10_20230140198_Latfiansya-Dzikri.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Latfiansya/Tugas10_20230140198_Latfiansya-Dzikri/issues"
+  },
+  "homepage": "https://github.com/Latfiansya/Tugas10_20230140198_Latfiansya-Dzikri#readme"
 }
-
-
